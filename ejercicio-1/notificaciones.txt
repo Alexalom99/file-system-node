@@ -1,0 +1,4 @@
+El/la contibuyente Javier Moreno tiene notificaciones pendientes. Se enviará un mail a javier.moreno@ejemplo.com
+El dni 98765332K no tiene pagos pendientes
+El/la contibuyente María García tiene notificaciones pendientes. Se enviará un mail a maria.garcia@ejemplo.com
+El/la contibuyente Pedro López tiene notificaciones pendientes. Se enviará un mail a pedro.lopez@ejemplo.com
